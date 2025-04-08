@@ -3,8 +3,9 @@
 A Python implementation of a neural network from scratch using only NumPy. This project includes implementations of fundamental neural network components and demonstrates their use with the Iris dataset.
 
 ## TODO:
-[] - Create Param class that stores weight and gradient data. Replace it on all other classes.
-[] - Create optimizer class to update Params based on their gradient data.
+[ ] - Create Param class that stores weight and gradient data. Replace it on all other classes.
+
+[ ] - Create optimizer class to update Params based on their gradient data.
 
 ## Project Structure
 
