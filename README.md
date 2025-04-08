@@ -7,6 +7,8 @@ A Python implementation of a neural network from scratch using only NumPy. This 
 
 [ ] - Create optimizer class to update Params based on their gradient data.
 
+[ ] - Support more common layer types: Conv2d, BatchNorm, Sigmoid, etc..
+
 ## Project Structure
 
 ```
@@ -92,15 +94,6 @@ python iris_example.py
 
 - NumPy
 - scikit-learn (for Iris dataset example)
-
-## Contributing
-
-Feel free to contribute by:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
 
 ## License
 
