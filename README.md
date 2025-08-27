@@ -90,7 +90,9 @@ python iris_example.py
 
 ## TODO:
 [ ] - Create Param class that stores weight and gradient data. Replace it on all other classes.
+
 [ ] - Create optimizer class to update Params based on their gradient data.
+
 [ ] - Support more common layer types: Conv2d, BatchNorm, Sigmoid, etc..
 
 ## License
